@@ -45,12 +45,12 @@
 			Your account has been created, you can login with the following credentials after you have activated your account by pressing the url below.
 				 
 				------------------------
-				Username: '.$username.'
+				Username: '.$email.'
 				Password: '.$_POST['password'].'
 				------------------------
 				 
 			Please click this link to activate your account:
-			http://giannireale88.altervista.org/bin/verifica.php?email='.$email.'&hash='.$hash.'
+			https://giannireale88.altervista.org/bin/verifica.php?email='.$email.'&hash='.$hash.'
  
 				';
 			
